@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
